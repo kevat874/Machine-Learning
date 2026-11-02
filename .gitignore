@@ -1,17 +1,6 @@
-# macOS
-.DS_Store
-
-# Jupyter checkpoints
-.ipynb_checkpoints/
-
-# Python
 __pycache__/
-*.py[cod]
-
-# Virtual environments
+.ipynb_checkpoints/
+.DS_Store
+.env
 venv/
 .venv/
-env/
-
-# Secrets
-.env
